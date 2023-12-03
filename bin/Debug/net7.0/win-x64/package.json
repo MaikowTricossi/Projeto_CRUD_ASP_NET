@@ -1,0 +1,29 @@
+{
+  "name": "HandCrank",
+  "version": "1.0.0",
+  "description": "Descrição do seu projeto",
+  "main": "index.cshtml",
+  "scripts": {
+    "start": "dotnet run"
+    
+  },
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+   
+  },
+  "keywords": [
+    "palavras-chave",
+    "do",
+    "seu",
+    "projeto"
+  ],
+  "author": "Seu Nome",
+  "license": "Licença do seu projeto",
+  "repository": {
+    "type": "git",
+    "url": "URL do repositório git"
+  }
+
+}

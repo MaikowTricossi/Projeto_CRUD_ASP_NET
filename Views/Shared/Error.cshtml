@@ -1,0 +1,10 @@
+@{
+    ViewData["Title"] = "Error";
+}
+
+<h1 class="text-danger">An error occurred while processing your request.</h1>
+<h2 class="text-danger">Error details:</h2>
+<pre>
+    @Model.Error.Message
+    @Model.Error.StackTrace
+</pre>
