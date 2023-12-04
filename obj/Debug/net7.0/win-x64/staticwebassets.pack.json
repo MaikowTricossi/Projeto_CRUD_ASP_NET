@@ -1,8 +1,52 @@
 {
   "Files": [
     {
+      "Id": "C:\\xampp\\htdocs\\Projeto\\entities\\wwwroot\\css\\Estilo.css",
+      "PackagePath": "staticwebassets\\css\\Estilo.css"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Projeto\\entities\\wwwroot\\css\\Slider-Main.css",
+      "PackagePath": "staticwebassets\\css\\Slider-Main.css"
+    },
+    {
       "Id": "C:\\xampp\\htdocs\\Projeto\\entities\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Projeto\\entities\\wwwroot\\imagens\\envelope-regular.svg",
+      "PackagePath": "staticwebassets\\imagens\\envelope-regular.svg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Projeto\\entities\\wwwroot\\imagens\\img2.PNG",
+      "PackagePath": "staticwebassets\\imagens\\img2.PNG"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Projeto\\entities\\wwwroot\\imagens\\img4.png",
+      "PackagePath": "staticwebassets\\imagens\\img4.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Projeto\\entities\\wwwroot\\imagens\\img5.png",
+      "PackagePath": "staticwebassets\\imagens\\img5.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Projeto\\entities\\wwwroot\\imagens\\img6.png",
+      "PackagePath": "staticwebassets\\imagens\\img6.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Projeto\\entities\\wwwroot\\imagens\\img7.png",
+      "PackagePath": "staticwebassets\\imagens\\img7.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Projeto\\entities\\wwwroot\\imagens\\img8.png",
+      "PackagePath": "staticwebassets\\imagens\\img8.png"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Projeto\\entities\\wwwroot\\imagens\\phone-solid.svg",
+      "PackagePath": "staticwebassets\\imagens\\phone-solid.svg"
+    },
+    {
+      "Id": "C:\\xampp\\htdocs\\Projeto\\entities\\wwwroot\\imagens\\search.svg",
+      "PackagePath": "staticwebassets\\imagens\\search.svg"
     },
     {
       "Id": "C:\\xampp\\htdocs\\Projeto\\entities\\wwwroot\\lib\\bootstrap\\LICENSE",

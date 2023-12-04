@@ -59,7 +59,7 @@ namespace Entities
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Forum}/{action=Index}/{id?}");
+                    pattern: "{controller=Topicos}/{action=Index}/{id?}");
             });
         }
     }

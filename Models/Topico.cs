@@ -6,7 +6,7 @@ namespace Entities.Models
     public class Topico
     {
         internal object AutorId; 
-        public int Id  { get; set; }
+        public int TopicoId  { get; set; }
         public string Titulo { get; set; }
 
         public string Conteudo { get; set; }
